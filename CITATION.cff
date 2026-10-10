@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software in research or statutory calculation systems, please cite it as below."
+authors:
+  - name: "UseCOS Legal & Engineering"
+    website: "https://usecos.app"
+title: "ontario-eviction-notice-calculator: Statutory Timing & Eviction Calculator Engine for Ontario Residential Tenancies Act (LTB Forms N4 & N12)"
+version: 1.0.0
+date-released: 2026-10-10
+url: "https://github.com/rivlosys/ontario-eviction-notice-calculator"
+keywords:
+  - "ontario-landlord-tenant-board"
+  - "ltb"
+  - "residential-tenancies-act"
+  - "notice-n4"
+  - "notice-n12"
+  - "eviction-timing"
+  - "legal-engineering"
+  - "canada"
